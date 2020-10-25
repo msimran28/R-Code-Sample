@@ -25,7 +25,7 @@ Step 1: Correlation between variables
     ## Warning in title(title, ...): "NH20_num_data.p" is not a graphical
     ## parameter
 
-![](Q4_files/figure-markdown_strict/chunk1-1.png)
+![](files/figure-markdown_strict/chunk1-1.png)
 
 There are a lot of combinations.We can use some of these when we make
 boxes and would want to combine them through multicorrelation between
@@ -44,7 +44,7 @@ of ‘K’.
     ## Ncells 2247621 120.1    3834977 204.9         NA  3834977 204.9
     ## Vcells 4256806  32.5   10146329  77.5      16384  8385685  64.0
 
-![](Q4_files/figure-markdown_strict/chunk2-1.png)
+![](files/figure-markdown_strict/chunk2-1.png)
 
 Conclusion: K = 10 *Since this is based on a visual representation of
 the Elbow, I would like to verify this with another method.*
@@ -55,12 +55,12 @@ the Elbow, I would like to verify this with another method.*
 
     ## Warning: did not converge in 100 iterations
 
-![](Q4_files/figure-markdown_strict/chunk3-1.png)
+![](files/figure-markdown_strict/chunk3-1.png)
 
 Conclusion: K = 2 *Not as realistic.*
 
 **3. The Gap Statistic**
-![](Q4_files/figure-markdown_strict/chunk4-1.png)
+![](files/figure-markdown_strict/chunk4-1.png)
 
 Conclusion: K = 10
 
@@ -69,7 +69,7 @@ with this number.
 
 Finally, we make 10 clusters.
 
-![](Q4_files/figure-markdown_strict/chunk5-1.png)
+![](files/figure-markdown_strict/chunk5-1.png)
 
 We analyse the cluster through their center means and categorize our
 market segment boxes accordingly.
@@ -145,7 +145,7 @@ have as they represent 60% of the original data. Then, we use the
 information from those 10 PCAs to form the Dendogram Model as viewed
 below and see the clusters thus formed.
 
-![](Q4_files/figure-markdown_strict/chunk8-1.png)
+![](files/figure-markdown_strict/chunk8-1.png)
 
 9 Market segments recognised from the clusters:
 
