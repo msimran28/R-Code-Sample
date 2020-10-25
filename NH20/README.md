@@ -7,11 +7,9 @@ we can put variables in boxes to give us a general idea of the nature of
 the people that dictate these boxes. We do this through three steps and
 two methods:
 
-**Step 1: Find if some variables are highly correlated to see if we can
-box them together maybe** **Step 2, Mehtod 1: Make boxes through
-clustering (by kmeans) and report the resulting market segments.**
-**Step 3, Method 2: Make Principle Components and report the market
-segments.**
+**Step 1**: Find if some variables are highly correlated to see if we can box them together maybe
+**Step 2, Method 1**: Make boxes through clustering (by kmeans) and report the resulting market segments.
+**Step 3, Method 2**: Make Principle Components and report the market segments.
 
 Step 1: Correlation between variables
 =====================================
